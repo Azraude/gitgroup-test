@@ -1,8 +1,23 @@
-Il était une fois un homme qui était en train de pêcher et qui aimait bien boire des bières.
-Son ami à côté, lui, préfère boire du rhum.
-Ils ont péché une grosse truite et vont rentrer la cuisiner avec des pommes de terres. Ils ont accompagnés le repas avec du vin blanc bien sur.
-Mais ils ne savaient pas ce qu'il y avait dans le marché.
-ravioli
-Le lendemain il reparti à la pêche.
-Il est vraiment passioné de tout ça.
+Quelle commande Git permet de cloner un dépôt distant ?
+a) git push
+b) git pull
+c) git clone
+d) git fetch
 
+Si vous voulez voir l'historique des commits d'un dépôt avec des détails sur chaque commit ?
+a) git log
+b) git status
+c) git show
+d) git history
+
+Si vous voulez créer une nouvelle branche et basculer immédiatement dessus ?
+a) git branch nouvelle-branche
+b) git checkout -b nouvelle-branche
+c) git branch -c nouvelle-branche
+d) git checkout nouvelle-branche
+
+Vous avez plusieurs commits non push dans votre branche locale et vous voulez les combiner en un seul commit avant de les push sur le dépôt distant ?
+a) git commit --amend
+b) git merge 
+c) git rebase -i HEAD~[nombre de commits]
+d) git push --combine
